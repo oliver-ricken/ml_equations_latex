@@ -363,7 +363,7 @@ Below  ![math](https://render.githubusercontent.com/render/math?math=x)  and  ![
 
 
 ```
-\sum_{i=1}^{D}(x_i-y_i)^2
+\frac{1}{D} \sum_{i=1}^{D}(x_i-y_i)^2
 ```
 
 #### Huber loss
