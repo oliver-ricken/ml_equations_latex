@@ -274,10 +274,10 @@ $$\sum_{i=1}^{D}|x_i-y_i|$$
 
 #### Mean Squared Error(MSE)
 
-$$\sum_{i=1}^{D}(x_i-y_i)^2$$
+$$\frac{1}{D} \sum_{i=1}^{D}(x_i-y_i)^2$$
 
 ```
-\sum_{i=1}^{D}(x_i-y_i)^2
+\frac{1}{D} \sum_{i=1}^{D}(x_i-y_i)^2
 ```
 
 #### Huber loss
